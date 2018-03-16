@@ -2,12 +2,12 @@
 <resources>
 
     <string-array name="classes">
-        <item>@string/anao</item>
-        <item>@string/arqueiro</item>
-        <item>@string/bardo</item>
-        <item>@string/elfo</item>
-        <item>@string/guerreiro</item>
-        <item>@string/mago</item>
+        <item>@string/saiyajin</item>
+        <item>@string/humano</item>
+        <item>@string/androide</item>
+        <item>@string/freeza</item>
+        <item>@string/majin</item>
+        <item>@string/namekuseijin</item>
     </string-array>
 
 </resources>

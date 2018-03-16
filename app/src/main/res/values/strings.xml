@@ -10,10 +10,10 @@
     <string name="botao_criar">Criar</string>
     <string name="label_rodape">Desenvolvido por Ken Games</string>
 
-    <string name="mago">Mago</string>
-    <string name="guerreiro">Guerreiro</string>
-    <string name="arqueiro">Arqueiro</string>
-    <string name="bardo">Bardo</string>
-    <string name="anao">Anão</string>
-    <string name="elfo">Elfo</string>
+    <string name="saiyajin">Saiyajin</string>
+    <string name="humano">Humano</string>
+    <string name="androide">Androide</string>
+    <string name="freeza">Freeza</string>
+    <string name="majin">Majin</string>
+    <string name="namekuseijin">Namekuseijin</string>
 </resources>
